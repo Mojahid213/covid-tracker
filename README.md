@@ -1,3 +1,8 @@
-Covid-19 status showing webpage made with React.js and Tailwind css
+# Covid Tracker
 
-Live website: https://covid19-tracker12.netlify.app/
+>Technology Used: HTML, Tailwind CSS, API and React.js    
+
+* [Live Website](https://covid19-tracker12.netlify.app/ "Homepage")
+
+_Designed and Developed by **Mojahidul Islam**_
+
